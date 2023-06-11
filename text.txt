@@ -1,3 +1,5 @@
 alpha beta gama
 
 learning git commands 
+
+updating the file on github
