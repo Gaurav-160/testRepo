@@ -2,4 +2,8 @@ alpha beta gama
 
 learning git commands 
 
+
 changing the file in my local 
+
+updating the file on github
+
